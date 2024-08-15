@@ -54,4 +54,8 @@ body {
   color: hsl(0, 0%, 100%);
   border-radius: 15px;
   font-weight: 700;
+  transition: color 0.5s;
+}
+.card__links:hover {
+  color: hsl(75, 94%, 57%);
 }/*# sourceMappingURL=main.css.map */
